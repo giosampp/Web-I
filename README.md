@@ -19,6 +19,6 @@
 | Atividade 9 | [Repositório](https://github.com/giosampp/atividade9) | [Página](https://giosampp.github.io/atividade9/) |
 | Atividade 10 | [Repositório](https://github.com/giosampp/Atividade10) | [Página](https://giosampp.github.io/Atividade10/) |
 | Atividade 11 | [Repositório](https://github.com/giosampp/Atividade11) | [Página](https://giosampp.github.io/Atividade11/) |
-| Atividade 12 | [Repositório](https://github.com/giosampp/atividade12) | [Página](https://giosampp.github.io/atividade12/) |
+| Atividade 12 | [Repositório](https://github.com/giosampp/Atividade12) | [Página](https://giosampp.github.io/Atividade12/) |
 | Atividade 13 | [Repositório](https://github.com/giosampp/Atividade13) | [Página](https://giosampp.github.io/Atividade13/) |
 | Atividade 14 | [Repositório](https://github.com/giosampp/Atividade-14) | [Página](https://giosampp.github.io/Atividade-14/) |
