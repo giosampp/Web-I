@@ -2,17 +2,17 @@
 
 - 4° Semestre - T2
 
-**Dev:** Paula Giovanna Sampaio Santos
+**Dev:** Giovanna Sampaio
 
 ## 📚 Atividades
 
 | Atividade | Repositório | GitHub Pages |
 |---|---|---|
 | Atividade 1 | [Repositório](https://github.com/giosampp/atividade1) | [Página](https://giosampp.github.io/atividade1/) |
-| Atividade 2 | [Repositório](https://github.com/giosampp/atividade2) | [Página](https://giosampp.github.io/atividade2/) |
-| Atividade 3 | [Repositório](https://github.com/giosampp/atividade3) | [Página](https://giosampp.github.io/atividade3/) |
-| Atividade 4 | [Repositório](https://github.com/giosampp/atividade4) | [Página](https://giosampp.github.io/atividade4/) |
-| Atividade 5 | [Repositório](https://github.com/giosampp/atividade5) | [Página](https://giosampp.github.io/atividade5/) |
+| Atividade 2 | [Repositório](https://github.com/giosampp/Atividade2) | [Página](https://giosampp.github.io/Atividade2/) |
+| Atividade 3 | [Repositório](https://github.com/giosampp/Atividade3) | [Página](https://giosampp.github.io/Atividade3/) |
+| Atividade 4 | [Repositório](https://github.com/giosampp/Atividade4) | [Página](https://giosampp.github.io/Atividade4/) |
+| Atividade 5 | [Repositório](https://github.com/giosampp/Atividade5) | [Página](https://giosampp.github.io/Atividade5/) |
 | Atividade 6 | [Repositório](https://github.com/giosampp/atividade6) | [Página](https://giosampp.github.io/atividade6/) |
 | Atividade 7 | [Repositório](https://github.com/giosampp/atividade7) | [Página](https://giosampp.github.io/atividade7/) |
 | Atividade 8 | [Repositório](https://github.com/giosampp/atividade8) | [Página](https://giosampp.github.io/atividade8/) |
