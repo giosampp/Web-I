@@ -2,7 +2,7 @@
 
 - 4° Semestre - T2
 
-**Dev:** Giovanna Sampaio
+**Dev:** Paula Giovanna Sampaio Santos
 
 ## 📚 Atividades
 
